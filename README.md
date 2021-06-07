@@ -26,7 +26,7 @@ Telegram id:
 * [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
 
 ## License
-[MIT](https://github.com/farkoo/Cat-Dog-Classifier/blob/master/LICENSE)
+[MIT](https://github.com/farkoo/Covid19-Detection-from-ChestXRayImages/blob/master/LICENSE)
 &#0169; 
 [Farzaneh Koohestani](https://github.com/farkoo)
 
