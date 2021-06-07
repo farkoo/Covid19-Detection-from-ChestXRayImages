@@ -6,7 +6,7 @@ Dataset images are divided into two classes:
 * covid  (25 images) :disappointed_relieved:
 * normal (25 images) :relieved:
 
-I used VGG16 in keras to categorize the images of these two classes, the structure of this network can be seen below:
+I used **VGG16** in **keras** to categorize the images of these two classes, the structure of this network can be seen below:
 
 <img src="https://neurohive.io/wp-content/uploads/2018/11/vgg16.png">
 
