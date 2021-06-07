@@ -10,7 +10,7 @@ I used VGG16 in keras to categorize the images of these two classes, the structu
 
 <img src="https://neurohive.io/wp-content/uploads/2018/11/vgg16.png">
 
-Using this ready-made network and without adding any other convolution layer, I reached **100%** accuracy after 25 epochs. :relieved: :heart_eyes: :smiley:
+Using this ready-made network and without adding any other convolution layer, I reached **100%** accuracy after 25 epochs. :sunglasses: :heart_eyes: :smiley:
 
 
 ## Support
