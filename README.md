@@ -1,3 +1,3 @@
-# Covid19-Detection-from-ChestCTImages
+# Covid19-Detection-from-ChestXRayImages
 
 It will be completed soon
