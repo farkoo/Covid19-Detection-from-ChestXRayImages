@@ -8,4 +8,4 @@ Dataset images are divided into two classes:
 
 I used VGG16 in keras to categorize the images of these two classes, the structure of this network can be seen below:
 
-<img src"https://neurohive.io/wp-content/uploads/2018/11/vgg16.png">
+<img src="https://neurohive.io/wp-content/uploads/2018/11/vgg16.png">
